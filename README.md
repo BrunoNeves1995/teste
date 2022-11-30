@@ -51,3 +51,11 @@ Associar ao meu repositório, ao meu endereço local
 Enviando os arquivos para nuvem
 	
 	git push origin main
+
+criando uma nova branch
+
+	git checkout -b NomeDaBranch
+
+permiti a troca de branchs
+
+	git checkout NomeDaBranch
