@@ -28,6 +28,7 @@ Mostra os estatus dos arquivos
 Adicionar todos os arquivos
 	
 	git add .
+	git add NomeArquivo
   git add NomeArquivo
 
 
