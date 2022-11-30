@@ -38,7 +38,7 @@ Salvando as informações com a mensagem
 
 Associar ao meu repositório, ao meu endereço local
 	
-	git remote add origin https://github.com/BrunoNeves1995/teste
+	git remote add origin UrlDoseuRepositorio
 
 
 Enviando os arquivos para nuvem
