@@ -20,6 +20,12 @@ configuções antes de iniciar o repositorio
 Inicia um novo repositório
 
 	git init
+
+
+criando arquivo gitignore
+
+	dotnet new gitignore
+	
 	
 Mostra os estatus dos arquivos
 
@@ -29,7 +35,7 @@ Adicionar todos os arquivos
 	
 	git add .
 	git add NomeArquivo
-  git add NomeArquivo
+  	git add NomeArquivo
 
 
 Salvando as informações com a mensagem
